@@ -1,3 +1,2 @@
 # my-app
-My name is Sunil Bist.
-My name is Himal Bist.
+i am a Devops teacher acutally /.
